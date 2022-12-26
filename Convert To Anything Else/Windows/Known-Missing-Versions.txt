@@ -1,0 +1,4 @@
+- v1.05a
+Actually, that's it for Windows.
+
+For 1.08 Steam... you already have it. That's the base version.

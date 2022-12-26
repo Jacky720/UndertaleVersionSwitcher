@@ -1,0 +1,1 @@
+All of these use the 1.11 (GameMaker 2) runner file. v1.09 is exactly the same as v1.10, except for the version number; it was a fix to a Nintendo Store issue. To fix blurriness, use the RunSwitchOnPC script in UndertaleModTool. Or just get the NXTALE mod: https://gamejolt.com/games/nxtale/636375

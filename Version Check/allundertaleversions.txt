@@ -1,0 +1,43 @@
+d0822e279464db858682ca99ec4cbbff v1.00, Windows, Steam
+b8937c236b4cd2ef6de3513f5be282d1 v1.00, OSX, Steam
+cd48b89b6ac6b2d3977f2f82726e5f12 v1.001, Windows, Steam
+ee6560271ac91ef9ce564e64102d449c v1.001, Windows, GOG
+dd9179255566e722f7a709c56ace912a v1.001, OS X, Steam
+88ae093aa1ae0c90da0d3ff1e15aa724 v1.001, Linux, Steam
+2a840c78198d5d0c14fe25dfd44f1b6c v1.001, OSX, Steam
+f9c72be740313c4dfa3af5e71760d12f v1.001, OSX, Steam
+a3aedacc024c96df05cf262a8f60770c v1.001, OSX, Steam
+e3a0ec9e30493a1c08818755d8a4ae0d v1.001, PS Vita
+21b4c0e0f8f53dc6515e0b4673b14031 v1.001, PS4
+ece5d15dff0ff5c20a94d3dc78a30361 v1.01, PS Vita
+d703c5eb2f4fd911d6d5596fe52cf3ca v1.02, PS Vita
+183096942ea8a0ad1792c7ba21995372 v1.03, PS Vita
+040dceb4cfb156f8d58a88e1f40cad49 v1.04, PS Vita
+856219e69dd39e76deca0586a7f44307 v1.05, Windows, Steam
+c138a67154b6185c710a3778cacb22d4 v1.05, OS X, Steam
+0ecaf026e3357a98c98245932ac8e536 v1.05, PS Vita
+0bf582aa180983a9ffa721aa2be2f273 v1.05a, Windows, Steam
+35d423183188c70b5097827930dd7d7e v1.05a, Linux, Steam
+4d40626978f93b5ddca71586ad670d46 v1.05a, OSX, Steam
+582795ad2037d06cdc8db0c72d9360d5 v1.06, Windows, Steam
+ba93da4d380b188e7397c5db46b6e508 v1.06, Linux, Steam
+ae5b21eaa89f162eed788390bccfe0ca v1.06, OSX, Steam
+627da8a0368392204d2af4b5b15f4f7f v1.06, Windows, GOG
+2da79c38d342b802a142deac34124bb6 v1.06, PS Vita
+cd7702660742410cfe08cf9e88376a97 v1.07, PS Vita
+5903fc5cb042a728d4ad8ee9e949c6eb v1.08, Windows, Steam
+e996649a751e5dc5182b8416168042b5 v1.08, Linux, Steam
+5cdb1e4dba5847bf92d7bf8f867952aa v1.08, OSX, Steam
+8d2e7d83f45e3f9c4c166fdc9ac18eb1 v1.08, PS Vita
+21b4c0e0f8f53dc6515e0b4673b14031 v1.08, PS4
+ff4f10d0434b332f46e1f35a900ec862 v1.08, Collector's Edition/Windows 10 store edition/Humble Bundle/GOG/Xbox Game Pass [not the Xbox One version]
+a6036317aa1d668bdd9ec3669e6c266c v1.08, Linux, Humble Bundle
+dc0f9737c6bbc22902792c3c7e6dcadd v1.08, Mac, Humble Bundle
+b4abe58dddb699ab81717e8e21254a38 v1.08, Mac, Steam
+fc049850856dea4ef1427bbf5653fc47 v1.08, Mac, Steam
+427520a97db28c87da4220abb3a334c1 v1.09, Nintendo Switch
+cf8f7e3858bfbc46478cc155b78fb170 v1.10, Nintendo Switch
+113ef42e8cb91e5faf780c426679ec3a v1.11, Nintendo Switch
+Unknown v1.11X, Xbox
+Unknown v1.12X, Xbox
+Unknown v1.13X, Xbox
