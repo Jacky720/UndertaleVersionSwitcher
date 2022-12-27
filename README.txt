@@ -11,6 +11,7 @@ Converting versions has three steps:
 
 That's it! Thanks to:
 - mono21400 for all the console files. It's been pinned in the chat for too long for containing 95% of the game data.
+- Grossley for the lion's share of Steam files.
 - All the speedrunners for several more files (including 1.001 Linux and 1.05).
 - The Underminers server for general support and, uh, there's probably a few more I found there and forgot about. Heh.
 

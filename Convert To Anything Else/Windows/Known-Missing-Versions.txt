@@ -1,4 +1,1 @@
-- v1.05a
-Actually, that's it for Windows.
-
-For 1.08 Steam... you already have it. That's the base version.
+For 1.08 Steam... you already have it. That's the base version. No patch required. See Step 1 of the base README if you don't.
