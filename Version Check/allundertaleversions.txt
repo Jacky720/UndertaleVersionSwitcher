@@ -2,7 +2,7 @@ d0822e279464db858682ca99ec4cbbff v1.00, Windows, Steam
 b8937c236b4cd2ef6de3513f5be282d1 v1.00, OSX, Steam
 cd48b89b6ac6b2d3977f2f82726e5f12 v1.001, Windows, Steam
 ee6560271ac91ef9ce564e64102d449c v1.001, Windows, GOG
-dd9179255566e722f7a709c56ace912a v1.001, OS X, Steam
+dd9179255566e722f7a709c56ace912a v1.001, OSX, Steam
 88ae093aa1ae0c90da0d3ff1e15aa724 v1.001, Linux, Steam
 2a840c78198d5d0c14fe25dfd44f1b6c v1.001, OSX, Steam
 f9c72be740313c4dfa3af5e71760d12f v1.001, OSX, Steam
@@ -19,10 +19,12 @@ c138a67154b6185c710a3778cacb22d4 v1.05, OS X, Steam
 0bf582aa180983a9ffa721aa2be2f273 v1.05a, Windows, Steam
 35d423183188c70b5097827930dd7d7e v1.05a, Linux, Steam
 4d40626978f93b5ddca71586ad670d46 v1.05a, OSX, Steam
+6a51aefc263305791b37eba33ed5707c v1.05a, OSX, Humble Bundle
 582795ad2037d06cdc8db0c72d9360d5 v1.06, Windows, Steam
 ba93da4d380b188e7397c5db46b6e508 v1.06, Linux, Steam
 ae5b21eaa89f162eed788390bccfe0ca v1.06, OSX, Steam
 627da8a0368392204d2af4b5b15f4f7f v1.06, Windows, GOG
+472303740be739acf4377e00263f9fec v1.06, Linux, Humble Bundle
 2da79c38d342b802a142deac34124bb6 v1.06, PS Vita
 cd7702660742410cfe08cf9e88376a97 v1.07, PS Vita
 5903fc5cb042a728d4ad8ee9e949c6eb v1.08, Windows, Steam
@@ -32,9 +34,9 @@ e996649a751e5dc5182b8416168042b5 v1.08, Linux, Steam
 Unknown v1.08, PS4
 ff4f10d0434b332f46e1f35a900ec862 v1.08, Collector's Edition/Windows 10 store edition/Humble Bundle/GOG/Xbox Game Pass [not the Xbox One version]
 a6036317aa1d668bdd9ec3669e6c266c v1.08, Linux, Humble Bundle
-dc0f9737c6bbc22902792c3c7e6dcadd v1.08, Mac, Humble Bundle
-b4abe58dddb699ab81717e8e21254a38 v1.08, Mac, Steam
-fc049850856dea4ef1427bbf5653fc47 v1.08, Mac, Steam
+dc0f9737c6bbc22902792c3c7e6dcadd v1.08, OSX, Humble Bundle
+b4abe58dddb699ab81717e8e21254a38 v1.08, OSX, Steam
+fc049850856dea4ef1427bbf5653fc47 v1.08, OSX, Steam
 427520a97db28c87da4220abb3a334c1 v1.09, Nintendo Switch
 cf8f7e3858bfbc46478cc155b78fb170 v1.10, Nintendo Switch
 113ef42e8cb91e5faf780c426679ec3a v1.11, Nintendo Switch
