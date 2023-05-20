@@ -1,0 +1,7 @@
+The Linux 1.00, Linux 1.11, and Windows 1.11 runners are all repurposed from other games, as these versions of Undertale were not released on these platforms.
+
+For reference, the following Undertale versions work with the following runners:
+1.00 - 1.00 runner
+1.001 - 1.001 runner
+1.001-4, 1.001-v, and 1.01 through 1.08 - 108 runner
+1.09 through 1.11 - 111 runner
