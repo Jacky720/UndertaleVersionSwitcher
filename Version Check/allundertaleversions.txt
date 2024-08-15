@@ -40,6 +40,6 @@ fc049850856dea4ef1427bbf5653fc47 v1.08, OSX, Steam
 427520a97db28c87da4220abb3a334c1 v1.09, Nintendo Switch
 cf8f7e3858bfbc46478cc155b78fb170 v1.10, Nintendo Switch
 113ef42e8cb91e5faf780c426679ec3a v1.11, Nintendo Switch
-Unknown v1.11X, Xbox
+54d8f18aed0a30d635ac9706265fd144 v1.11X, Xbox
 Unknown v1.12X, Xbox
 da279d9b8fe2125a192780e25dadff69 v1.13X, Xbox
