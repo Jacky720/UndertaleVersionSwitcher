@@ -42,4 +42,4 @@ cf8f7e3858bfbc46478cc155b78fb170 v1.10, Nintendo Switch
 113ef42e8cb91e5faf780c426679ec3a v1.11, Nintendo Switch
 Unknown v1.11X, Xbox
 Unknown v1.12X, Xbox
-Unknown v1.13X, Xbox
+da279d9b8fe2125a192780e25dadff69 v1.13X, Xbox
