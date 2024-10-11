@@ -31,7 +31,7 @@ cd7702660742410cfe08cf9e88376a97 v1.07, PS Vita
 e996649a751e5dc5182b8416168042b5 v1.08, Linux, Steam
 5cdb1e4dba5847bf92d7bf8f867952aa v1.08, OSX, Steam
 8d2e7d83f45e3f9c4c166fdc9ac18eb1 v1.08, PS Vita
-Unknown v1.08, PS4
+5abe61c1627a35b2e006a11e6ee2eb8f v1.08, PS4
 ff4f10d0434b332f46e1f35a900ec862 v1.08, Collector's Edition/Windows 10 store edition/Humble Bundle/GOG/Xbox Game Pass [not the Xbox One version]
 a6036317aa1d668bdd9ec3669e6c266c v1.08, Linux, Humble Bundle
 dc0f9737c6bbc22902792c3c7e6dcadd v1.08, OSX, Humble Bundle
