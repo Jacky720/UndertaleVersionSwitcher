@@ -15,6 +15,7 @@ That's it! Thanks to:
 - Mike for the 1.05a and 1.06 DRM-free/Humble Bundle/GOG files.
 - OceanBagel for the Linux runners.
 - Emma (IPG) for Xbox patches, Daniela for communicating the first of those patches, and the fine folks of XBOX-SCENE for making a dump possible.
+- IRUZZ for the PlayStation 4 v1.08 dump (and for waiting for me to upload it).
 - All the speedrunners for several more files (including 1.001 Linux and 1.05).
 - The Underminers server for general support and, uh, there's probably a few more I found there and forgot about. Heh.
 
