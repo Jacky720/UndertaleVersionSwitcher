@@ -16,8 +16,9 @@ That's it! Thanks to:
 - OceanBagel for the Linux runners.
 - Emma (IPG) for Xbox patches, Daniela for communicating the first of those patches, and the fine folks of XBOX-SCENE for making a dump possible.
 - IRUZZ for the PlayStation 4 v1.08 dump (and for waiting for me to upload it).
+- Dusk the Crow for spotting and grabbing v0.99 on Steam.
 - All the speedrunners for several more files (including 1.001 Linux and 1.05).
 - The Underminers server for general support and, uh, there's probably a few more I found there and forgot about. Heh.
 
 ----
-Version 1.0.0
+Version 1.0.3
